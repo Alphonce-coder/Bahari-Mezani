@@ -1,7 +1,7 @@
 # System Design for Bahari Mezani
 
 ## 1. Architecture
-The project follows a **React-based Single Page Application (SPA)** architecture. Below is the proposed architecture:
+The project follows a **React Application ** architecture. Below is the proposed architecture:
 
 - **Frontend**: React.js with React Router for navigation and TailwindCSS for styling.
 - **Backend**: Supabase for backend services (authentication, database, and APIs).
